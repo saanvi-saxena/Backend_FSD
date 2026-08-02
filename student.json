@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "course": "B.Tech CSE",
+    "year": 2,
+    "cgpa": 8.7,
+    "email": "aarav.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Diya Verma",
+    "age": 19,
+    "course": "B.Tech IT",
+    "year": 1,
+    "cgpa": 9.1,
+    "email": "diya.verma@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "age": 21,
+    "course": "B.Tech ECE",
+    "year": 3,
+    "cgpa": 8.3,
+    "email": "rohan.gupta@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Singh",
+    "age": 20,
+    "course": "B.Tech CSE",
+    "year": 2,
+    "cgpa": 9.4,
+    "email": "ananya.singh@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Kabir Mehta",
+    "age": 22,
+    "course": "B.Tech ME",
+    "year": 4,
+    "cgpa": 7.9,
+    "email": "kabir.mehta@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "age": 21,
+    "course": "B.Tech CE",
+    "year": 3,
+    "cgpa": 8.8,
+    "email": "sneha.patel@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Aditya Kumar",
+    "age": 20,
+    "course": "B.Tech AI & ML",
+    "year": 2,
+    "cgpa": 9.0,
+    "email": "aditya.kumar@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Priya Nair",
+    "age": 19,
+    "course": "B.Tech CSE",
+    "year": 1,
+    "cgpa": 8.5,
+    "email": "priya.nair@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Rahul Yadav",
+    "age": 22,
+    "course": "B.Tech EE",
+    "year": 4,
+    "cgpa": 7.8,
+    "email": "rahul.yadav@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Meera Joshi",
+    "age": 21,
+    "course": "B.Tech CSE",
+    "year": 3,
+    "cgpa": 9.2,
+    "email": "meera.joshi@example.com"
+  }
+]
