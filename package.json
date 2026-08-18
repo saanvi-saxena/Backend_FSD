@@ -1,0 +1,21 @@
+{
+  "name": "backend_fsd",
+  "version": "1.0.0",
+  "description": "FSD sem3",
+  "main": "day2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saanvi-saxena/Backend_FSD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saanvi-saxena/Backend_FSD/issues"
+  },
+  "homepage": "https://github.com/saanvi-saxena/Backend_FSD#readme"
+}
