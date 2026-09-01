@@ -32,19 +32,19 @@ async function readFile() {
 
 
 // // 3. UPDATE
-// async function updateFile() {
-//     try {
-//         await fs.appendFile(
-//             fileName,
-//             "\nCollege: ABES Engineering College............",
-//             "utf8"
-//         );
+async function updateFile() {
+    try {
+        await fs.appendFile(
+            fileName,
+            "\nCollege: ABES Engineering College............",
+            "utf8"
+        );
 
-//         console.log("\nFile updated successfully");
-//     } catch (error) {
-//         console.log("Error:", error.message);
-//     }
-// }
+        console.log("\nFile updated successfully");
+    } catch (error) {
+        console.log("Error:", error.message);
+    }
+}
 
 
 // // 4. DELETE
@@ -65,7 +65,7 @@ async function main() {
 
      await readFile();
 
-    // await updateFile();
+    await updateFile();
 
     // await deleteFile();
 }
